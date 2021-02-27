@@ -6,7 +6,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I want to go into cybersecurity!
 
-{{ ACCOUNT_AGE }}
 
 <!--
 **theseus27/theseus27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
