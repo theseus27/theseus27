@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Web Programming and Data Structures.
-- 🌱 I’m currently learning: HTML, Javascript, C++.
-- 💬 Ask me about: Pokemon Go and other AR video games.
+- 🔭 I’m currently working on: Cybersecurity
+- 🌱 I’m currently learning: C++, web development.
+- 💬 Ask me about: Pokemon Go, psychology, and singing.
 - 📫 How to reach me: theseus.lim@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I want to go into cybersecurity!
 
 
 <!--
