@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Cybersecurity
-- 🌱 I’m currently learning: C++, web development.
-- 💬 Ask me about: Pokemon Go, psychology, and singing.
+- 🔭 I’m currently: Teaching computer science at iD Tech
+- 🌱 I’m currently learning: Python, FastAPI, Javascript
+- 💬 Ask me about: Pokemon, drumming, and Percy Jackson
 - 📫 How to reach me: theseus.lim@gmail.com
 - 😄 Pronouns: he/him
 
