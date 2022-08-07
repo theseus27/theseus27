@@ -1,9 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently: Teaching computer science at iD Tech
-- 🌱 I’m currently learning: Python, FastAPI, Javascript
-- 💬 Ask me about: Pokemon, drumming, and Percy Jackson
-- 📫 How to reach me: theseus.lim@gmail.com
-- 😄 Pronouns: he/him
+## Hello! 👋
+- I'm Theseus, a junior at Tufts University studying computer science and engineering psychology. I'm currently teaching a cybersecurity class at iD Tech's MIT Academy. On the side, I'm learning React and FastAPI for my summer project in preparation for my role as a Project Manager at Jumbo Code this coming year. Apart from coding, I enjoy drumming, playing Pokemon, and talking about Percy Jackson.
+
+- Theseus
+theseus.lim@gmail.com
 
 
 <!--
