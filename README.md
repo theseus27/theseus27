@@ -7,9 +7,9 @@
 :email: If you want to talk about pretty much anything, feel free to reach out at theseus.lim@gmail.com
 
 <br>
-For SWE, see my <b><b>Coding Challenges</b></b> repo or email me to see code from courses. <br>
-For Web Development and Data Analysis, see my <b>Personal Projects repo</b>.  <br>
-For Scripting, see my <b>Powershell</b> and <b>AutoHotKey</b> repos.
+For SWE, see my <b>CODING CHALLENGES</b> repo or email me to see code from courses. <br>
+For Web Development and Data Analysis, see my <b>PERSONAL PROJECTS</b> repo.  <br>
+For Scripting, see my <b>POWERSHELL</b> and <b>AUTOHOTKEY</b> repos.
 
 
 <!--
