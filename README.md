@@ -6,6 +6,11 @@
 :video_game: Apart from coding, I enjoy drumming, talking about Percy Jackson, and playing Pokemon and COD. <br>
 :email: If you want to talk about pretty much anything, feel free to reach out at theseus.lim@gmail.com
 
+<br><br>
+
+For Web Development and Data Analysis work, see my Personal Projects repo <br>
+For SWE, see my Coding Challenges repo or email me to see code from courses.
+
 
 <!--
 **theseus27/theseus27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
