@@ -1,5 +1,4 @@
-## About Me
-:wave: Hey, thanks for dropping by! <br>
+## :wave: Hey, thanks for dropping by!
 :boy: I'm Theseus, a junior at Tufts University studying computer science and psychology. <br>
 :briefcase: I'm currently a Project Manager for JumboCode, working with Boston-based non-profit G{Code} to build a Canvas-esque platform. <br>
 :computer: For work, I enjoy coding more software engineering type projects. For fun I like scripting and automating my workflow (AutoHotKey, Powershell modules...) <br>
