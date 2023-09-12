@@ -1,6 +1,6 @@
 ## :wave: Hey, thanks for dropping by!
-:boy: I'm Theseus, a junior at Tufts University studying computer science and psychology. <br>
-:briefcase: I'm currently a Project Manager for JumboCode, working with Boston-based non-profit G{Code} to build a Canvas-esque platform. <br>
+:boy: I'm Theseus, a senior at Tufts University studying computer science and psychology. <br>
+:briefcase: I'm currently the Head of Project Management for JumboCode, an organization that works with non-profits to build full-stack bespoke web apps. Last summer I was a Data Analytics intern at Ernst and Young. <br>
 :computer: For work, I enjoy data analytics and software engineering that revolves around fixing things. For fun I like scripting and automating my workflow (AutoHotKey, Powershell modules...) <br>
 :video_game: Apart from coding, I enjoy drumming, talking about Percy Jackson, and playing Pokemon and COD. <br>
 :email: If you want to talk about pretty much anything, feel free to reach out at theseus.lim@gmail.com
