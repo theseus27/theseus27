@@ -1,7 +1,7 @@
 ## :wave: Hey, thanks for dropping by!
 :boy: I'm Theseus! <br>
 :briefcase: I'm currently a Software Engineer @Meta where I work in the Reality Labs divison.<br>
-:computer: I'm interested in development of extended reality, scripting and automation, and teaching and making computer science accessible.
+:computer: I'm interested in development of extended reality, scripting and automation, and teaching and making computer science accessible. <br>
 :video_game: Apart from coding, I enjoy hanging out with my Shiba, singing, talking about Percy Jackson, and playing Pokemon. <br>
 :email: If you want to talk about pretty much anything, feel free to reach out at theseus.lim@gmail.com or connect on LinkedIn: <a>linkedin.com/in/theseus-lim</a>
 
