@@ -1,9 +1,9 @@
 ## :wave: Hey, thanks for dropping by!
-:boy: I'm Theseus, a senior at Tufts University studying computer science and psychology. <br>
-:briefcase: I'm currently the Head of Project Management for JumboCode, an organization that works with non-profits to build full-stack bespoke web apps. Last summer I was a Data Analytics intern at Ernst and Young. <br>
-:computer: For work, I enjoy data analytics and software engineering that revolves around fixing things. For fun I like scripting and automating my workflow (AutoHotKey, Powershell modules...) <br>
-:video_game: Apart from coding, I enjoy drumming, talking about Percy Jackson, and playing Pokemon and COD. <br>
-:email: If you want to talk about pretty much anything, feel free to reach out at theseus.lim@gmail.com
+:boy: I'm Theseus! <br>
+:briefcase: I'm currently a Software Engineer @Meta where I work in the Reality Labs divison.<br>
+:computer: I'm interested in development of extended reality, scripting and automation, and teaching and making computer science accessible.
+:video_game: Apart from coding, I enjoy hanging out with my Shiba, singing, talking about Percy Jackson, and playing Pokemon. <br>
+:email: If you want to talk about pretty much anything, feel free to reach out at theseus.lim@gmail.com or connect on LinkedIn: <a>linkedin.com/in/theseus-lim</a>
 
 <br>
 For SWE, see my <b>CODING CHALLENGES</b> repo or email me to see code from courses. <br>
